@@ -1,4 +1,4 @@
-# Sistema-de-Recomendação
+# Sistema de Recomendação
 
 com PySpark e deploy em Streamlit
 
